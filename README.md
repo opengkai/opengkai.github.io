@@ -1,1 +1,1 @@
-# [opengkai.github.io](https://hoo.be/hlws)
+# [opengkai.github.io](https://hardware-1.gitbook.io/hardware-docs/)
